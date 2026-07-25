@@ -62,8 +62,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-id="DBCNews.bd" tvg-logo="https://i.imgur.com/Qbt6q4z.png" group-title="News",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 tvg-id="EkhonTV.bd" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Business",Ekhon TV
+#EXTINF:-1 tvg-id="EkhonTV.bd" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Business",Ekhon TV 1
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/dd/Ekhon_TV_logo.png" group-title="SM All TV",Ekhon TV 2
+https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
