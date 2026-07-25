@@ -80,6 +80,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-logo="https://i.imgur.com/F62GUqS.png" group-title="Entertainment",Deepto TV 2
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
+#EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-logo="https://i.imgur.com/F62GUqS.png" group-title="Entertainment",Deepto TV 3
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
 #EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-logo="https://i.imgur.com/uVZJMed.png" group-title="Entertainment",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
