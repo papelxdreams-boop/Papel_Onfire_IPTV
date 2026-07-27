@@ -224,7 +224,7 @@ http://103.191.99.248:5550/302/index.m3u8
 http://playshare.co:8080/live/papelxdreams/papel@360/198.ts
 
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="Entertainment |  TV",Zee Bangla HD
-http://playshare.co:8080/live/papelxdreams/papel@360/23305.ts
+http://weaseltv.live:80/c/A0:BB:3E:BC:25:43/34718.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="SM All TV",Zee Bangla
 http://103.159.180.34:5001/live/625.m3u8
