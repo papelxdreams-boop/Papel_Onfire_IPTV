@@ -224,7 +224,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://103.191.99.248:5550/302/index.m3u8
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="https://dtil.tmsimg.com/assets/s143818_ld_h15_aa.png?lock=720x540" group-title="Entertainment |  TV",Star Jalsha HD 2
-http://weaseltv.live/server/load.php?type=epg&action=get_simple_data_table&ch_id=379383&date=2026-07-31&p=1&JsHttpRequest=1-xml
+http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=225805&extension=ts&play_token=ulDZW1FpJA
 
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="Entertainment |  TV",Zee Bangla HD
 http://weaseltv.live:80/c/A0:BB:3E:BC:25:43/34718.ts
