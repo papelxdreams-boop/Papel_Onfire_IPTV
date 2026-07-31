@@ -288,6 +288,9 @@ https://madanitv.assadikb.workers.dev/live.php?id=545&e=.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/d2586d604e/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="BANGLA |  TV",Sony YAY
+http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=1531198&extension=ts&play_token=kT9xX4ZbIZ
+
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="SM_IPTV",Cartoon Network Hindi
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/68b0f4e13e/playlist.m3u8
