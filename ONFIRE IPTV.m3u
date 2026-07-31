@@ -224,11 +224,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=225805&extension=ts&play_token=ulDZW1FpJA
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="https://dtil.tmsimg.com/assets/s143818_ld_h15_aa.png?lock=720x540" group-title="Entertainment |  TV",Star Jalsha HD 2
-http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=1118057&extension=ts&play_token=ulDZW1FpJA
+http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=1118057&extension=ts&play_token=m3u8
 
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="Entertainment |  TV",Zee Bangla HD
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
+http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=155770&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="SM All TV",Zee Bangla
 http://103.159.180.34:5001/live/625.m3u8
