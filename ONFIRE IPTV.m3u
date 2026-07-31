@@ -224,10 +224,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=225805&extension=ts&play_token=ulDZW1FpJA
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="https://dtil.tmsimg.com/assets/s143818_ld_h15_aa.png?lock=720x540" group-title="Entertainment |  TV",Star Jalsha HD 2
-http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=1118057&extension=ts&play_token=NW0vrYR40j
-
-#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="https://dtil.tmsimg.com/assets/s143818_ld_h15_aa.png?lock=720x540" group-title="Entertainment |  TV",Star Jalsha HD 3
-https://jiotvbpkstb.cdn.jio.com/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/index.mpd
+http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=1118057&extension=ts&play_token=ulDZW1FpJA
 
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="Entertainment |  TV",Zee Bangla HD
 http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=154782&extension=ts&play_token=ulDZW1FpJA
