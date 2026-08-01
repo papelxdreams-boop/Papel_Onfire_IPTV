@@ -221,9 +221,12 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="https://dtil.tmsimg.com/assets/s143818_ld_h15_aa.png?lock=720x540" group-title="Entertainment |  TV",Star Jalsha HD 1
-http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=225805&extension=ts&play_token=m3u8
+http://filex.uk:8080/live/1379759983/6593243729/911595.m3u8
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="https://dtil.tmsimg.com/assets/s143818_ld_h15_aa.png?lock=720x540" group-title="Entertainment |  TV",Star Jalsha HD 2
+http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=225805&extension=ts&play_token=m3u8
+
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="https://dtil.tmsimg.com/assets/s143818_ld_h15_aa.png?lock=720x540" group-title="Entertainment |  TV",Star Jalsha HD 3
 http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=1118057&extension=ts&play_token=m3u8
 
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="Entertainment |  TV",Zee Bangla HD
