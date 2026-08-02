@@ -7,6 +7,9 @@ http://bosstv.click:8080/NjJpU2orZ1cyM3kwL2tJeFRLcmUxdDVOVFgvUjU2SHdZTVZXcklQWE5
 #EXTINF:-1 tvg-id="SangsadTV.bd" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="Legislative",Sangsad TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
+#EXTINF:-1 tvg-id="BTVChittagong.bd" tvg-name="BTV Chittagong" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpiiZ7F1pit6ywL_83XMNngeaJtld-YudMxhVHIs70WYM32JdlKS3w_5gD&s=10" group-title="BANGLA |  TV",BTV Chittagong
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_ctg&format=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: BTV-" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=3840&q=75" group-title="BANGLA |  TV",BTV News
 http://bosstv.click:8080/NjJpU2orZ1cyM3kwL2tJeFRLcmUxblEvZ0UwNmx6ZG1nbGFuQVVCcDVOa3dmTmRzTTdVcmdTSWx3eHFUWTJjcQ
 
