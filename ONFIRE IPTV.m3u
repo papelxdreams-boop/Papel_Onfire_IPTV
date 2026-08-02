@@ -225,7 +225,7 @@ http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=225805&extension
 http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=1118057&extension=ts&play_token=m3u8
 
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="Entertainment |  TV",Zee Bangla HD
-http://weaseltv.live/play/live.php?mac=A0:BB:3E:BC:25:43&stream=155774&extension=ts&play_token=m3u8
+http://main.light-ott.net/play/live.php?mac=00:1B:79:53:05:29&stream=908680&extension=ts&play_token=bS7P3TnFWh
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="SM All TV",Zee Bangla
 http://103.159.180.34:5001/live/625.m3u8
