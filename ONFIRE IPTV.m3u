@@ -260,8 +260,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 #EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="Entertainment",Express Entertainment HD
 https://raw.githubusercontent.com/papelxdreams-boop/Channel-Creat-List-/refs/heads/main/Express%20Entertainment%20HD.m3u8
 
-#EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/TVP7g03_d.webp?maxwidth=760&fidelity=grand" group-title="Entertainment",ARY Digital
-http://playshare.co:8080/live/papelxdreams/papel@360/257229.ts
+#EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/TVP7g03_d.webp?maxwidth=760&fidelity=grand" group-title="Entertainment",ARY Digital HD
+https://raw.githubusercontent.com/papelxdreams-boop/Channel-Creat-List-/refs/heads/main/ARY%20Digital%20HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="SM All TV",Jalsha Movies HD
 http://103.191.99.248:5550/303/index.m3u8
